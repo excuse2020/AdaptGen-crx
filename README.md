@@ -2,7 +2,7 @@
 
 ## 1. 安装指南
 
-1. [下载](https://github.com/excuse2020/AdaptGen-crx)
+1. [下载](https://github.com/excuse2020/AdaptGen-crx)：打开该网址，点击绿色Code，选择Download ZIP。解压文件，`chrome-adaptgen`为插件文件夹。
 2. 打开 Chrome 浏览器，点击右上角的图标，进入扩展程序管理界面。
 3. 在弹出的菜单中点击“扩展程序”，然后选择“管理扩展程序”。
 4. 开启右上角的“开发者模式”，点击“加载已解压的扩展程序”，选择 `chrome-adaptgen` 所在文件夹并加载。
