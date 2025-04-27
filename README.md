@@ -46,7 +46,7 @@
   - GA（GA-OPT）支持更多的编程问题，大模型生成的模板在复杂问题上的表现更好。
   - 推荐使用 Random 综合选择最优模板。
 - **Example Count**：从若干个AC代码中提取模板，Example Count为使用至少N个代码总结出的模板。Examples越多，生成的模板通用性越强。
-- **TopK**：在评分最高的 K 个模板中随机返回一个，TopK=1 返回最佳。
+- **TopK**：查看评分最高的 K 个模板。
 
 点击“Generate Template”生成并查看模板，可复制模块或全文。
 
