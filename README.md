@@ -40,8 +40,8 @@
   - Data Structures：在Full的基础上只保留基本的数据定义，提示你可以使用何种数据结构解决问题，具体的算法流程需自己实现。
   - Algorithms：仅在Full的基础上只保留基本的控制流程，提示你解决问题的一般流程，你需要思考选择何种数据结构存储数据，并完成具体的算法流程。
 - **Language**：目前仅支持 Java。
-- **Model**：支持 GA、GA-OPT（优化版本）、GPT、DeepSeek、Qwen。
-  - 我们使用GA（遗传算法）和主流的大模型（GPT、DeekSeek、Qwen）来生成模板。你可以根据需要来选择各类模板。
+- **Model**：支持 GA、GA-OPT（优化版本）、GPT、DeepSeek、Qwen、Doubao。
+  - 我们使用GA（遗传算法）和主流的大模型（GPT、DeekSeek、Qwen、Doubao）来生成模板。你可以根据需要来选择各类模板。
   - 使用GA生成的模板在标识符一致性上存在问题，我们使用大模型进行了优化（GA-OPT，如果要选择GA可以优先选择GA-OPT）。
   - GA（GA-OPT）支持更多的编程问题，大模型生成的模板在复杂问题上的表现更好。
   - 推荐使用 Random 综合选择最优模板。
