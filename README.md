@@ -86,3 +86,4 @@
 
 使用：在题目描述界面点击插件主界面中的 **Guidance** 或通过右键菜单选择 **获取解题思路** 。选择使用的模型和要生成指导的编程语言，点击 **Get Guidance** 即可，获取到大模型的返回结果后会在新标签页中显示。
 
+## 5. [User Study](https://zzzzzzgw.top/user-study)
