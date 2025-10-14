@@ -27,7 +27,7 @@
 
 ### 2.1 登录
 
-1. 在插件主页的 Sites 页面中，快速跳转至 LeetCode 题库，或进入 [题库](https://zzzzzzgw.top/user-study) 选择题目跳转：
+1. 在插件主页的 `Sites` 页面中，快速跳转至 LeetCode 题库，或进入 [题库](https://zzzzzzgw.top/user-study) 选择题目跳转：
 
    - [leetcode.cn](https://leetcode.cn/)（中文网站，推荐）
    - [leetcode.com](https://leetcode.com/)（英文网站）
@@ -35,7 +35,7 @@
 
    <img src="./img/image-20251014143903249.png" alt="image-20251014143903249" style="zoom:33%;" />
 
-2. 注册 AdaptGen 用户信息以便收集反馈。点击右上角用户图标进入登录界面，新用户点击 Register now 进行注册，输入昵称和密码注册账号。
+2. 注册 AdaptGen 插件用户信息以便收集反馈。点击右上角用户图标进入登录界面，新用户点击 `Register now` 进行注册，输入昵称和密码注册账号。
 
    >  [!IMPORTANT]
    >
@@ -49,7 +49,7 @@
 
 #### 2.2.1 模板生成
 
-在题目描述界面点击插件主界面中的 **Generate** 或通过右键菜单选择**生成模板**。
+在题目描述界面点击插件主界面中的 `Generate` 或通过右键菜单选择`生成模板`。
 
 模板生成设置说明：
 
