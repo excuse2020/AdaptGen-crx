@@ -4,23 +4,23 @@
 
 1. [下载](https://github.com/excuse2020/AdaptGen-crx)：打开该网址，点击绿色 `Code`，选择 `Download ZIP`。解压文件，`chrome-adaptgen`为插件文件夹。
 
-   <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014142959116.png" alt="image-20251014142959116" style="zoom: 33%;" />
+   <img src="./img/image-20251014142959116.png" alt="image-20251014142959116" style="zoom: 33%;" />
 
 2. 打开 Chrome 浏览器，点击右上角的图标，进入扩展程序管理界面。在弹出的菜单中点击“扩展程序”，选择“管理扩展程序”。
 
-   <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014143231434.png" alt="image-20251014143231434" style="zoom:33%;" />
+   <img src="./img/image-20251014143231434.png" alt="image-20251014143231434" style="zoom:33%;" />
 
 3. 开启右上角的“开发者模式”，点击“加载已解压的扩展程序”，选择 `chrome-adaptgen` 文件夹。
 
-4. <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014143456032.png" alt="image-20251014143456032" style="zoom:33%;" />
+4. <img src="./img/image-20251014143456032.png" alt="image-20251014143456032" style="zoom:33%;" />
 
 5. 确保插件已启用，并点击图钉按钮将 AdaptGen 固定在浏览器工具栏。
 
-6. <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014143733426.png" alt="image-20251014143733426" style="zoom:33%;" />
+6. <img src="./img/image-20251014143733426.png" alt="image-20251014143733426" style="zoom:33%;" />
 
 7. 点击插件图标，弹出主界面，表示 AdaptGen 安装成功！
 
-8. <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014143758364.png" alt="image-20251014143758364" style="zoom:33%;" />
+8. <img src="./img/image-20251014143758364.png" alt="image-20251014143758364" style="zoom:33%;" />
 
 ## 2. 使用指南
 
@@ -32,7 +32,7 @@
    - [leetcode.com](https://leetcode.com/)（英文网站）
    - 登录或注册个人 LeetCode 账号，用于提交代码。
 
-   <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014143903249.png" alt="image-20251014143903249" style="zoom:33%;" />
+   <img src="./img/image-20251014143903249.png" alt="image-20251014143903249" style="zoom:33%;" />
 
 2. 注册 AdaptGen 用户信息以便收集反馈。点击右上角用户图标进入登录界面，新用户点击 Register now 进行注册，输入昵称和密码注册账号。
 
@@ -40,7 +40,7 @@
    >
    > 需要进入到 LeetCode 界面进行上面操作
 
-   <img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014144607512.png" alt="image-20251014144607512" style="zoom:33%;" />
+   <img src="./img/image-20251014144607512.png" alt="image-20251014144607512" style="zoom:33%;" />
 
 3. 注册成功后将自动跳转至用户信息页面，更新个人信息。
 
@@ -77,19 +77,19 @@
 1. 选择图 2 中的 `Yes`，复制提交记录中的代码（图3）
 2. 等待弹出 Enter Code 界面（图 4），粘贴刚刚复制的代码，点击 `Submit` 按钮
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014152558498.png" alt="image-20251014152558498" style="zoom:33%;" />
+<img src="./img/image-20251014152558498.png" alt="image-20251014152558498" style="zoom:33%;" />
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014152630967.png" alt="image-20251014152630967" style="zoom:33%;" />
+<img src="./img/image-20251014152630967.png" alt="image-20251014152630967" style="zoom:33%;" />
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014152902134.png" alt="image-20251014152902134" style="zoom:33%;" />
+<img src="./img/image-20251014152902134.png" alt="image-20251014152902134" style="zoom:33%;" />
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014153106901.png" alt="image-20251014153106901" style="zoom:33%;" />
+<img src="./img/image-20251014153106901.png" alt="image-20251014153106901" style="zoom:33%;" />
 
 #### 2.2.3 反馈信息收集
 
 提交成功后将提示是否立即反馈，选择 `Yes` 立即跳转到反馈界面，选择 `No`可稍后通过主页的 `Feedback` 完成。
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014153239481.png" alt="image-20251014153239481" style="zoom:33%;" />
+<img src="./img/image-20251014153239481.png" alt="image-20251014153239481" style="zoom:33%;" />
 
 ##### 模板反馈系统介绍
 
@@ -180,10 +180,10 @@
 
 准备工作：点击插件主页底下 `Models` 中大模型的 `api-key` 的配置（保存到本地浏览器），建议选择 DeepSeek。
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014154352814.png" alt="image-20251014154352814" style="zoom:33%;" />
+<img src="./img/image-20251014154352814.png" alt="image-20251014154352814" style="zoom:33%;" />
 
 使用：在题目描述界面点击插件主界面中的 `Guidance` 或通过右键菜单选择 `获取解题思路` 。选择使用的模型和要生成指导的编程语言，点击 `Get Guidance` ，获取到大模型的返回结果后会在新标签页中显示。
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014154534529.png" alt="image-20251014154534529" style="zoom:33%;" />
+<img src="./img/image-20251014154534529.png" alt="image-20251014154534529" style="zoom:33%;" />
 
-<img src="/Users/zz/Library/Application Support/typora-user-images/image-20251014154642249.png" alt="image-20251014154642249" style="zoom:50%;" />
+<img src="./img/image-20251014154642249.png" alt="image-20251014154642249" style="zoom:50%;" />
