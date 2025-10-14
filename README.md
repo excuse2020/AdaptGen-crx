@@ -4,7 +4,6 @@
 
 1. [下载](https://github.com/excuse2020/AdaptGen-crx)：打开该网址，点击绿色 `Code`，选择 `Download ZIP`。解压文件，`chrome-adaptgen`为插件文件夹。
 
-
 <img src="./img/image-20251014142959116.png" alt="image-20251014142959116" style="zoom: 33%;" />
 
 2. 打开 Chrome 浏览器，点击右上角的图标，进入扩展程序管理界面。在弹出的菜单中点击“扩展程序”，选择“管理扩展程序”。
@@ -52,6 +51,8 @@
 #### 2.2.1 模板生成
 
 在题目描述界面点击插件主界面中的 `Template` 或通过右键菜单选择 `生成模板`。
+
+<img src="./img/image-20251014160538086.png" alt="image-20251014160538086" style="zoom:33%;" />
 
 模板生成设置说明：
 
