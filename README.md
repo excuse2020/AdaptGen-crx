@@ -2,23 +2,23 @@
 
 ## 1. 安装指南
 
-[下载](https://github.com/excuse2020/AdaptGen-crx)：打开该网址，点击绿色 `Code`，选择 `Download ZIP`。解压文件，`chrome-adaptgen`为插件文件夹。
+1.1 [下载](https://github.com/excuse2020/AdaptGen-crx)：打开该网址，点击绿色 `Code`，选择 `Download ZIP`。解压文件，`chrome-adaptgen`为插件文件夹。
 
 <img src="./img/image-20251014142959116.png" alt="image-20251014142959116" style="zoom: 33%;" />
 
-打开 Chrome 浏览器，点击右上角的图标，进入扩展程序管理界面。在弹出的菜单中点击“扩展程序”，选择“管理扩展程序”。
+1.2 打开 Chrome 浏览器，点击右上角的图标，进入扩展程序管理界面。在弹出的菜单中点击“扩展程序”，选择“管理扩展程序”。
 
 <img src="./img/image-20251014143231434.png" alt="image-20251014143231434" style="zoom: 25%;" />
 
-开启右上角的“开发者模式”，点击“加载已解压的扩展程序”，选择 `chrome-adaptgen` 文件夹。
+1.3 开启右上角的“开发者模式”，点击“加载已解压的扩展程序”，选择 `chrome-adaptgen` 文件夹。
 
 <img src="./img/image-20251014143456032.png" alt="image-20251014143456032" style="zoom:33%;" />
 
-确保插件已启用，并点击图钉按钮将 AdaptGen 固定在浏览器工具栏。
+1.4 确保插件已启用，并点击图钉按钮将 AdaptGen 固定在浏览器工具栏。
 
 <img src="./img/image-20251014143733426.png" alt="image-20251014143733426" style="zoom:33%;" />
 
-点击插件图标，弹出主界面，表示 AdaptGen 安装成功！
+1.5 点击插件图标，弹出主界面，表示 AdaptGen 安装成功！
 
 <img src="./img/image-20251014143758364.png" alt="image-20251014143758364" style="zoom:33%;" />
 
