@@ -18,8 +18,8 @@
 
 1. From the plugin home `Sites` page, quickly navigate to the LeetCode problem set, or go to the Problem Bank at https://zzzzzzgw.top/user-study and choose a problem:
 
-   - https://leetcode.cn/ (Chinese site, recommended)
    - https://leetcode.com/ (English site)
+   - https://leetcode.cn/ (Chinese site)
    - Sign in or register a LeetCode account for code submissions.
 
 2. Register AdaptGen plugin user info to help collect feedback. Click the top-right user icon to open the login page. New users click `Register now`, enter a nickname and password to create an account.
