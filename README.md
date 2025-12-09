@@ -150,7 +150,6 @@ After a successful submission, you will be prompted to provide feedback immediat
    - Describe your usage experience and the specific scenarios where you used the templates
    - Comment on the benefits and limitations of the templates
    - Provide any extra feedback, suggestions, or specific improvement ideas about the template
-   - You may also suggest improvements to the template system
 
 ## 3. Other Features (auxiliary; not in this test scope)
 
