@@ -24,9 +24,9 @@
 
 2. Register AdaptGen plugin user info to help collect feedback. Click the top-right user icon to open the login page. New users click `Register now`, enter a nickname and password to create an account.
 
-   [IMPORTANT]
-
-   You need to be on a LeetCode page to perform the steps above.
+   >  [IMPORTANT]
+   >  
+   >  You need to be on a LeetCode page to perform the steps above.  
 
 3. After successful registration, you will be redirected to the user info page. Update your personal information.
 
